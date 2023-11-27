@@ -26,8 +26,6 @@ lab 2 for git
 # what is git rebase 
 the process of moving or combining a sequence of commits to a new base commit.
 
-
-
 ![basic-rebase-1](https://github.com/ember52/git-lab2/assets/117265490/6533cf6d-07a1-4c78-a3cc-ea0c66b20472)
 
 
