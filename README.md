@@ -1,4 +1,3 @@
-lab 2 for git
 # delete branch locally
 ```git branch -D <branch-name>```
 # delete branch remotely
