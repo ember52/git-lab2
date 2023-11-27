@@ -1,4 +1,3 @@
-![01 What is git rebase](https://github.com/ember52/git-lab2/assets/117265490/ad5b9362-eb65-4ae5-bac3-2722840fa39f)# git-lab2
 lab 2 for git
 # delete branch locally
 ```git branch -D <branch-name>```
